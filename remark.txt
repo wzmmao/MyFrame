@@ -1,0 +1,7 @@
+helloGit
+2016.3.14
+
+git is better than svn.
+
+
+com.github.mao
